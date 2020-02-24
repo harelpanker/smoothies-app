@@ -1,5 +1,6 @@
 # smoothies
-
+Vue.js - materializecss - firebase
+A simple CRUD app with a search bar
 ## Project setup
 ```
 npm install
