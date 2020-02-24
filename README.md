@@ -1,6 +1,7 @@
 # smoothies
 Vue.js - materializecss - firebase.
-A simple CRUD app with a search bar
+A simple CRUD app with a search/filter bar.
+live site: https://smoothies-panker.firebaseapp.com/
 ## Project setup
 ```
 npm install
