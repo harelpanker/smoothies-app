@@ -1,5 +1,5 @@
 # smoothies
-Vue.js - materializecss - firebase
+Vue.js - materializecss - firebase.
 A simple CRUD app with a search bar
 ## Project setup
 ```
